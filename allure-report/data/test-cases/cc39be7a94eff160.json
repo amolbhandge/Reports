@@ -1,0 +1,88 @@
+{
+  "uid" : "cc39be7a94eff160",
+  "name" : "send message dialog: confirmation",
+  "fullName" : "features/send_message.feature:send message dialog: confirmation",
+  "historyId" : "6764c513d9494413e2901e05004270ea",
+  "time" : {
+    "start" : 1608042257168,
+    "stop" : 1608042259010,
+    "duration" : 1842
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "When the user says \"Mobile\"",
+      "time" : {
+        "start" : 1608042257171,
+        "stop" : 1608042258985,
+        "duration" : 1814
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then dialog text contains \"Your message to trushal patel on WhatsApp says This is what we can do now . Want to send it or change it\"",
+      "time" : {
+        "start" : 1608042258986,
+        "stop" : 1608042259009,
+        "duration" : 23
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "dialog"
+  }, {
+    "name" : "tag",
+    "value" : "mock.phone"
+  }, {
+    "name" : "feature",
+    "value" : "Axxessibility send message happy path test"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "mock.phone", "dialog" ]
+  },
+  "source" : "cc39be7a94eff160.json",
+  "parameterValues" : [ ]
+}

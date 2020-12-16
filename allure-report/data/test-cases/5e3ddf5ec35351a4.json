@@ -1,0 +1,98 @@
+{
+  "uid" : "5e3ddf5ec35351a4",
+  "name" : "set session id",
+  "fullName" : "features/calendar.feature:set session id",
+  "historyId" : "9a08314213b23d0384d1ea531d7ea80c",
+  "time" : {
+    "start" : 1608042226582,
+    "stop" : 1608042228797,
+    "duration" : 2215
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "When the user says \"set my session id to 94\"",
+      "time" : {
+        "start" : 1608042226585,
+        "stop" : 1608042228771,
+        "duration" : 2186
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then dialog text contains \"94\"",
+      "time" : {
+        "start" : 1608042228772,
+        "stop" : 1608042228796,
+        "duration" : 24
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "dialog"
+  }, {
+    "name" : "tag",
+    "value" : "mock.phone"
+  }, {
+    "name" : "feature",
+    "value" : "Axxessibility calendar and meetings"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cbe2b9193194c55c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607688647939,
+        "stop" : 1607688650505,
+        "duration" : 2566
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "mock.phone", "dialog" ]
+  },
+  "source" : "5e3ddf5ec35351a4.json",
+  "parameterValues" : [ ]
+}

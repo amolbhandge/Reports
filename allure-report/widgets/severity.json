@@ -1,0 +1,241 @@
+[ {
+  "uid" : "33d0cbf7e1cd5575",
+  "name" : "call on whatsapp",
+  "time" : {
+    "start" : 1608042284810,
+    "stop" : 1608042287402,
+    "duration" : 2592
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea24b079742ffe76",
+  "name" : "Music: Play music",
+  "time" : {
+    "start" : 1608042216269,
+    "stop" : 1608042218538,
+    "duration" : 2269
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "39f7be0564326cd7",
+  "name" : "send message dialog: message and recepient",
+  "time" : {
+    "start" : 1608042252359,
+    "stop" : 1608042255145,
+    "duration" : 2786
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c4631ca5f7c229fd",
+  "name" : "send message dialog: confirmation",
+  "time" : {
+    "start" : 1608042259013,
+    "stop" : 1608042260979,
+    "duration" : 1966
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f88560709745f35",
+  "name" : "set session id",
+  "time" : {
+    "start" : 1608042240430,
+    "stop" : 1608042243847,
+    "duration" : 3417
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29b008eef1a192b4",
+  "name" : "meetings: next meeting",
+  "time" : {
+    "start" : 1608042231364,
+    "stop" : 1608042233820,
+    "duration" : 2456
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "970a3155b91f9b2d",
+  "name" : "meetings: join meeting",
+  "time" : {
+    "start" : 1608042233822,
+    "stop" : 1608042236409,
+    "duration" : 2587
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "615c577dbebe138c",
+  "name" : "call on whatsapp : disambiguate contact",
+  "time" : {
+    "start" : 1608042289967,
+    "stop" : 1608042291721,
+    "duration" : 1754
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9144a8f8c7320a50",
+  "name" : "read message dialog: message and recepient",
+  "time" : {
+    "start" : 1608042243904,
+    "stop" : 1608042246154,
+    "duration" : 2250
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf1e1dfecca4492e",
+  "name" : "call on whatsapp : No contact matches",
+  "time" : {
+    "start" : 1608042291724,
+    "stop" : 1608042294367,
+    "duration" : 2643
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b869371be26928a9",
+  "name" : "call on whatsapp : multiple result",
+  "time" : {
+    "start" : 1608042287405,
+    "stop" : 1608042289965,
+    "duration" : 2560
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e3ddf5ec35351a4",
+  "name" : "set session id",
+  "time" : {
+    "start" : 1608042226582,
+    "stop" : 1608042228797,
+    "duration" : 2215
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30eb0116866d47f5",
+  "name" : "Set alarm: set time and title",
+  "time" : {
+    "start" : 1608042275304,
+    "stop" : 1608042278725,
+    "duration" : 3421
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae51c6c3a8b04df8",
+  "name" : "set session id",
+  "time" : {
+    "start" : 1608042272858,
+    "stop" : 1608042275301,
+    "duration" : 2443
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e793a19f54bd2c58",
+  "name" : "meetings: list the day",
+  "time" : {
+    "start" : 1608042228800,
+    "stop" : 1608042231362,
+    "duration" : 2562
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f40f12425dbb8ef",
+  "name" : "Music: Stop music",
+  "time" : {
+    "start" : 1608042218540,
+    "stop" : 1608042220258,
+    "duration" : 1718
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc37a17c32f49c63",
+  "name" : "set session id",
+  "time" : {
+    "start" : 1608042209600,
+    "stop" : 1608042211690,
+    "duration" : 2090
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f6c4514c6f6f20e",
+  "name" : "Music: Play some specific music",
+  "time" : {
+    "start" : 1608042220262,
+    "stop" : 1608042222567,
+    "duration" : 2305
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e12b51717d90c395",
+  "name" : "set session id",
+  "time" : {
+    "start" : 1608042282748,
+    "stop" : 1608042284807,
+    "duration" : 2059
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9fe631374f14effe",
+  "name" : "set session id",
+  "time" : {
+    "start" : 1608042250179,
+    "stop" : 1608042252355,
+    "duration" : 2176
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b45be42bf55699d",
+  "name" : "send message dialog: disambiguate app",
+  "time" : {
+    "start" : 1608042255146,
+    "stop" : 1608042257165,
+    "duration" : 2019
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c16d3fc9ec5509fb",
+  "name" : "send message: app not installed",
+  "time" : {
+    "start" : 1608042266834,
+    "stop" : 1608042268842,
+    "duration" : 2008
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f3b2eb1c5015cbbe",
+  "name" : "send message: app not supported",
+  "time" : {
+    "start" : 1608042264176,
+    "stop" : 1608042266831,
+    "duration" : 2655
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "43e8f3e718f0a21e",
+  "name" : "send message: one shot",
+  "time" : {
+    "start" : 1608042260990,
+    "stop" : 1608042264174,
+    "duration" : 3184
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,121 @@
+{
+  "uid" : "ea24b079742ffe76",
+  "name" : "Music: Play music",
+  "fullName" : "features/apple_music.feature:Music: Play music",
+  "historyId" : "801bc07040d23738c609c0b7d886073d",
+  "time" : {
+    "start" : 1608042216269,
+    "stop" : 1608042218538,
+    "duration" : 2269
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "When the user asks \"Play greatest hits\"",
+      "time" : {
+        "start" : 1608042216272,
+        "stop" : 1608042218484,
+        "duration" : 2212
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then detected intent is \"Music.Play\"",
+      "time" : {
+        "start" : 1608042218485,
+        "stop" : 1608042218525,
+        "duration" : 40
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then data contains \"SUCCESS\"",
+      "time" : {
+        "start" : 1608042218526,
+        "stop" : 1608042218538,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "dialog"
+  }, {
+    "name" : "tag",
+    "value" : "mock.phone"
+  }, {
+    "name" : "feature",
+    "value" : "Axxessibility music and Apple"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6695bad54c330af1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1608042214001,
+        "stop" : 1608042216266,
+        "duration" : 2265
+      }
+    }, {
+      "uid" : "a7ef8d7df96713e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1608042211693,
+        "stop" : 1608042213998,
+        "duration" : 2305
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "mock.phone", "dialog" ]
+  },
+  "source" : "ea24b079742ffe76.json",
+  "parameterValues" : [ ]
+}

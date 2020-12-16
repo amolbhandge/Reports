@@ -1,0 +1,538 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "call on whatsapp : multiple result",
+    "uid" : "b869371be26928a9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1608042287405,
+      "stop" : 1608042289965,
+      "duration" : 2560
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "set session id",
+    "uid" : "9f88560709745f35",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608042240430,
+      "stop" : 1608042243847,
+      "duration" : 3417
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "set session id",
+    "uid" : "cbe2b9193194c55c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607688647939,
+      "stop" : 1607688650505,
+      "duration" : 2566
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "meetings: next meeting",
+    "uid" : "29b008eef1a192b4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1608042231364,
+      "stop" : 1608042233820,
+      "duration" : 2456
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Music: Play some specific music",
+    "uid" : "2f6c4514c6f6f20e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608042220262,
+      "stop" : 1608042222567,
+      "duration" : 2305
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "meetings: join meeting",
+    "uid" : "f79da71666b53854",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607688656091,
+      "stop" : 1607688658864,
+      "duration" : 2773
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Music: Play music",
+    "uid" : "a7ef8d7df96713e3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608042211693,
+      "stop" : 1608042213998,
+      "duration" : 2305
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "call on whatsapp",
+    "uid" : "33d0cbf7e1cd5575",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1608042284810,
+      "stop" : 1608042287402,
+      "duration" : 2592
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "meetings: join meeting",
+    "uid" : "970a3155b91f9b2d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1608042233822,
+      "stop" : 1608042236409,
+      "duration" : 2587
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "meetings: list the day",
+    "uid" : "84d9b0fda0a6f3a8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607688650511,
+      "stop" : 1607688653125,
+      "duration" : 2614
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "call on whatsapp",
+    "uid" : "2a81814b22606032",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1608033740511,
+      "stop" : 1608033743469,
+      "duration" : 2958
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Music: Play music",
+    "uid" : "ea24b079742ffe76",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608042216269,
+      "stop" : 1608042218538,
+      "duration" : 2269
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "call on whatsapp : disambiguate contact",
+    "uid" : "615c577dbebe138c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1608042289967,
+      "stop" : 1608042291721,
+      "duration" : 1754
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "send message dialog: confirmation",
+    "uid" : "cc39be7a94eff160",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608042257168,
+      "stop" : 1608042259010,
+      "duration" : 1842
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "send message dialog: message and recepient",
+    "uid" : "39f7be0564326cd7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608042252359,
+      "stop" : 1608042255145,
+      "duration" : 2786
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "call on whatsapp",
+    "uid" : "e792cc4c15753ded",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607683650580,
+      "stop" : 1607683653129,
+      "duration" : 2549
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "call on whatsapp : multiple result",
+    "uid" : "de24f970390c1182",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1608033743472,
+      "stop" : 1608033745866,
+      "duration" : 2394
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "set session id",
+    "uid" : "e12b51717d90c395",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608042282748,
+      "stop" : 1608042284807,
+      "duration" : 2059
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "send message: app not supported",
+    "uid" : "f3b2eb1c5015cbbe",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1608042264176,
+      "stop" : 1608042266831,
+      "duration" : 2655
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "send message: one shot",
+    "uid" : "43e8f3e718f0a21e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608042260990,
+      "stop" : 1608042264174,
+      "duration" : 3184
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "set session id",
+    "uid" : "5e3ddf5ec35351a4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608042226582,
+      "stop" : 1608042228797,
+      "duration" : 2215
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Set alarm: set time and title",
+    "uid" : "30eb0116866d47f5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608042275304,
+      "stop" : 1608042278725,
+      "duration" : 3421
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "send message: app not installed",
+    "uid" : "c16d3fc9ec5509fb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608042266834,
+      "stop" : 1608042268842,
+      "duration" : 2008
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "send message dialog: disambiguate app",
+    "uid" : "7b45be42bf55699d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608042255146,
+      "stop" : 1608042257165,
+      "duration" : 2019
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "set session id",
+    "uid" : "9fe631374f14effe",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608042250179,
+      "stop" : 1608042252355,
+      "duration" : 2176
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "set session id",
+    "uid" : "cc37a17c32f49c63",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608042209600,
+      "stop" : 1608042211690,
+      "duration" : 2090
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "call on whatsapp : No contact matches",
+    "uid" : "99a8429722fded3a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607683657915,
+      "stop" : 1607683660509,
+      "duration" : 2594
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "call on whatsapp : disambiguate contact",
+    "uid" : "65563560c929f461",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1608033745869,
+      "stop" : 1608033747633,
+      "duration" : 1764
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "meetings: list the day",
+    "uid" : "e793a19f54bd2c58",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1608042228800,
+      "stop" : 1608042231362,
+      "duration" : 2562
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "set session id",
+    "uid" : "72dc98d81a1b49f2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607683648015,
+      "stop" : 1607683650570,
+      "duration" : 2555
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Music: Stop music",
+    "uid" : "5f40f12425dbb8ef",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608042218540,
+      "stop" : 1608042220258,
+      "duration" : 1718
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "set session id",
+    "uid" : "ae51c6c3a8b04df8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608042272858,
+      "stop" : 1608042275301,
+      "duration" : 2443
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "read message dialog: message and recepient",
+    "uid" : "9144a8f8c7320a50",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608042243904,
+      "stop" : 1608042246154,
+      "duration" : 2250
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "call on whatsapp : disambiguate contact",
+    "uid" : "9417ec3bd4aa90c4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607683655450,
+      "stop" : 1607683657913,
+      "duration" : 2463
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "call on whatsapp : No contact matches",
+    "uid" : "b42208c36ee52470",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608033747635,
+      "stop" : 1608033750380,
+      "duration" : 2745
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "meetings: next meeting",
+    "uid" : "20a390fed41a9045",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607688653126,
+      "stop" : 1607688656088,
+      "duration" : 2962
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Music: Play music",
+    "uid" : "6695bad54c330af1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608042214001,
+      "stop" : 1608042216266,
+      "duration" : 2265
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "send message dialog: confirmation",
+    "uid" : "c4631ca5f7c229fd",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608042259013,
+      "stop" : 1608042260979,
+      "duration" : 1966
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "call on whatsapp : No contact matches",
+    "uid" : "cf1e1dfecca4492e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608042291724,
+      "stop" : 1608042294367,
+      "duration" : 2643
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "set session id",
+    "uid" : "eec128199f8208eb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608033737737,
+      "stop" : 1608033740507,
+      "duration" : 2770
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "call on whatsapp : multiple result",
+    "uid" : "f5a95b061668a01e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607683653141,
+      "stop" : 1607683655447,
+      "duration" : 2306
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

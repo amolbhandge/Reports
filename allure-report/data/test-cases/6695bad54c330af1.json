@@ -1,0 +1,103 @@
+{
+  "uid" : "6695bad54c330af1",
+  "name" : "Music: Play music",
+  "fullName" : "features/apple_music.feature:Music: Play music",
+  "historyId" : "801bc07040d23738c609c0b7d886073d",
+  "time" : {
+    "start" : 1608042214001,
+    "stop" : 1608042216266,
+    "duration" : 2265
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "When the user asks \"Play madonna\"",
+      "time" : {
+        "start" : 1608042214003,
+        "stop" : 1608042216200,
+        "duration" : 2197
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then detected intent is \"Music.Play\"",
+      "time" : {
+        "start" : 1608042216201,
+        "stop" : 1608042216242,
+        "duration" : 41
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then data contains \"SUCCESS\"",
+      "time" : {
+        "start" : 1608042216242,
+        "stop" : 1608042216266,
+        "duration" : 24
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "dialog"
+  }, {
+    "name" : "tag",
+    "value" : "mock.phone"
+  }, {
+    "name" : "feature",
+    "value" : "Axxessibility music and Apple"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "mock.phone", "dialog" ]
+  },
+  "source" : "6695bad54c330af1.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,98 @@
+{
+  "uid" : "c4631ca5f7c229fd",
+  "name" : "send message dialog: confirmation",
+  "fullName" : "features/send_message.feature:send message dialog: confirmation",
+  "historyId" : "6764c513d9494413e2901e05004270ea",
+  "time" : {
+    "start" : 1608042259013,
+    "stop" : 1608042260979,
+    "duration" : 1966
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "When the user says \"Send it\"",
+      "time" : {
+        "start" : 1608042259015,
+        "stop" : 1608042260954,
+        "duration" : 1939
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then dialog text contains \"message sent\"",
+      "time" : {
+        "start" : 1608042260954,
+        "stop" : 1608042260978,
+        "duration" : 24
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "dialog"
+  }, {
+    "name" : "tag",
+    "value" : "mock.phone"
+  }, {
+    "name" : "feature",
+    "value" : "Axxessibility send message happy path test"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cc39be7a94eff160",
+      "status" : "passed",
+      "time" : {
+        "start" : 1608042257168,
+        "stop" : 1608042259010,
+        "duration" : 1842
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "mock.phone", "dialog" ]
+  },
+  "source" : "c4631ca5f7c229fd.json",
+  "parameterValues" : [ ]
+}

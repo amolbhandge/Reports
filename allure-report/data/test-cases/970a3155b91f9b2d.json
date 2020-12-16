@@ -1,0 +1,124 @@
+{
+  "uid" : "970a3155b91f9b2d",
+  "name" : "meetings: join meeting",
+  "fullName" : "features/calendar.feature:meetings: join meeting",
+  "historyId" : "c8740c2d694147c3e5ca8c3304f5a7fc",
+  "time" : {
+    "start" : 1608042233822,
+    "stop" : 1608042236409,
+    "duration" : 2587
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError\n",
+  "statusTrace" : "  File \"c:\\users\\amol.bhandge\\videos\\api_integration\\cy17-tpace-integration-tests\\env\\lib\\site-packages\\behave\\model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"c:\\users\\amol.bhandge\\videos\\api_integration\\cy17-tpace-integration-tests\\env\\lib\\site-packages\\behave\\matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"features\\steps\\ncs_steps.py\", line 44, in step_impl\n    assert text.lower() in dialog_text.lower()\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError\n",
+    "statusTrace" : "  File \"c:\\users\\amol.bhandge\\videos\\api_integration\\cy17-tpace-integration-tests\\env\\lib\\site-packages\\behave\\model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"c:\\users\\amol.bhandge\\videos\\api_integration\\cy17-tpace-integration-tests\\env\\lib\\site-packages\\behave\\matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"features\\steps\\ncs_steps.py\", line 44, in step_impl\n    assert text.lower() in dialog_text.lower()\n",
+    "steps" : [ {
+      "name" : "When the user asks \"Join my next meeting \"",
+      "time" : {
+        "start" : 1608042233823,
+        "stop" : 1608042236334,
+        "duration" : 2511
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then detected intent is \"Custom.calendar_join_meeting\"",
+      "time" : {
+        "start" : 1608042236334,
+        "stop" : 1608042236388,
+        "duration" : 54
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And dialog text contains \"Your meeting Meeting 1 is about to start. Want to join\"",
+      "time" : {
+        "start" : 1608042236389,
+        "stop" : 1608042236408,
+        "duration" : 19
+      },
+      "status" : "failed",
+      "statusMessage" : "AssertionError\n",
+      "statusTrace" : "  File \"c:\\users\\amol.bhandge\\videos\\api_integration\\cy17-tpace-integration-tests\\env\\lib\\site-packages\\behave\\model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"c:\\users\\amol.bhandge\\videos\\api_integration\\cy17-tpace-integration-tests\\env\\lib\\site-packages\\behave\\matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"features\\steps\\ncs_steps.py\", line 44, in step_impl\n    assert text.lower() in dialog_text.lower()\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "dialog"
+  }, {
+    "name" : "tag",
+    "value" : "mock.phone"
+  }, {
+    "name" : "feature",
+    "value" : "Axxessibility calendar and meetings"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f79da71666b53854",
+      "status" : "failed",
+      "statusDetails" : "AssertionError\n",
+      "time" : {
+        "start" : 1607688656091,
+        "stop" : 1607688658864,
+        "duration" : 2773
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "mock.phone", "dialog" ]
+  },
+  "source" : "970a3155b91f9b2d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,132 @@
+{
+  "uid" : "b869371be26928a9",
+  "name" : "call on whatsapp : multiple result",
+  "fullName" : "features/whatsapp.feature:call on whatsapp : multiple result",
+  "historyId" : "06b09a912e5cca1209963a110a3f27f9",
+  "time" : {
+    "start" : 1608042287405,
+    "stop" : 1608042289965,
+    "duration" : 2560
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError\n",
+  "statusTrace" : "  File \"c:\\users\\amol.bhandge\\videos\\api_integration\\cy17-tpace-integration-tests\\env\\lib\\site-packages\\behave\\model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"c:\\users\\amol.bhandge\\videos\\api_integration\\cy17-tpace-integration-tests\\env\\lib\\site-packages\\behave\\matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"features\\steps\\ncs_steps.py\", line 44, in step_impl\n    assert text.lower() in dialog_text.lower()\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError\n",
+    "statusTrace" : "  File \"c:\\users\\amol.bhandge\\videos\\api_integration\\cy17-tpace-integration-tests\\env\\lib\\site-packages\\behave\\model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"c:\\users\\amol.bhandge\\videos\\api_integration\\cy17-tpace-integration-tests\\env\\lib\\site-packages\\behave\\matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"features\\steps\\ncs_steps.py\", line 44, in step_impl\n    assert text.lower() in dialog_text.lower()\n",
+    "steps" : [ {
+      "name" : "When the user asks \"call David on whatsapp\"",
+      "time" : {
+        "start" : 1608042287406,
+        "stop" : 1608042289907,
+        "duration" : 2501
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then detected intent is \"Calling.Dial\"",
+      "time" : {
+        "start" : 1608042289907,
+        "stop" : 1608042289950,
+        "duration" : 43
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then dialog text contains \"I have jay leno and craig ferguson . whom do you want to call?\"",
+      "time" : {
+        "start" : 1608042289950,
+        "stop" : 1608042289964,
+        "duration" : 14
+      },
+      "status" : "failed",
+      "statusMessage" : "AssertionError\n",
+      "statusTrace" : "  File \"c:\\users\\amol.bhandge\\videos\\api_integration\\cy17-tpace-integration-tests\\env\\lib\\site-packages\\behave\\model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"c:\\users\\amol.bhandge\\videos\\api_integration\\cy17-tpace-integration-tests\\env\\lib\\site-packages\\behave\\matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"features\\steps\\ncs_steps.py\", line 44, in step_impl\n    assert text.lower() in dialog_text.lower()\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "dialog"
+  }, {
+    "name" : "tag",
+    "value" : "mock.phone"
+  }, {
+    "name" : "feature",
+    "value" : "Axxessibility whatsapp"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "de24f970390c1182",
+      "status" : "failed",
+      "statusDetails" : "AssertionError\n",
+      "time" : {
+        "start" : 1608033743472,
+        "stop" : 1608033745866,
+        "duration" : 2394
+      }
+    }, {
+      "uid" : "f5a95b061668a01e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607683653141,
+        "stop" : 1607683655447,
+        "duration" : 2306
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "mock.phone", "dialog" ]
+  },
+  "source" : "b869371be26928a9.json",
+  "parameterValues" : [ ]
+}

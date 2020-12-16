@@ -1,0 +1,121 @@
+{
+  "uid" : "cf1e1dfecca4492e",
+  "name" : "call on whatsapp : No contact matches",
+  "fullName" : "features/whatsapp.feature:call on whatsapp : No contact matches",
+  "historyId" : "41625613de2b3301b410e189f93edd06",
+  "time" : {
+    "start" : 1608042291724,
+    "stop" : 1608042294367,
+    "duration" : 2643
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "When the user asks \"call john on whatsapp\"",
+      "time" : {
+        "start" : 1608042291727,
+        "stop" : 1608042294314,
+        "duration" : 2587
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then detected intent is \"Calling.Dial\"",
+      "time" : {
+        "start" : 1608042294315,
+        "stop" : 1608042294356,
+        "duration" : 41
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then dialog text contains \"Failed to call John as not found on your phone\"",
+      "time" : {
+        "start" : 1608042294356,
+        "stop" : 1608042294367,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "dialog"
+  }, {
+    "name" : "tag",
+    "value" : "mock.phone"
+  }, {
+    "name" : "feature",
+    "value" : "Axxessibility whatsapp"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b42208c36ee52470",
+      "status" : "passed",
+      "time" : {
+        "start" : 1608033747635,
+        "stop" : 1608033750380,
+        "duration" : 2745
+      }
+    }, {
+      "uid" : "99a8429722fded3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607683657915,
+        "stop" : 1607683660509,
+        "duration" : 2594
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "mock.phone", "dialog" ]
+  },
+  "source" : "cf1e1dfecca4492e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "total" : 6,
+  "items" : [ {
+    "uid" : "64eb1628e9992e89a98b7a0fd92c0703",
+    "name" : "Axxessibility whatsapp",
+    "statistic" : {
+      "failed" : 3,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "a37dbda3332eebfc319ce76d191b3724",
+    "name" : "Axxessibility calendar and meetings",
+    "statistic" : {
+      "failed" : 3,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "f7022fc9903c1ccdc7928321d64acd05",
+    "name" : "Axxessibility send message happy path test",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "14c193f9cf19eb7813b1eeb94385e3ef",
+    "name" : "Axxessibility music and Apple",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "12665d7271ded4a8139f097bbdf0cd7e",
+    "name" : "Axxessibility read message happy path test",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "498065363479c37c95990a116e347a12",
+    "name" : "Axxessibility set_alarm happy path test",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

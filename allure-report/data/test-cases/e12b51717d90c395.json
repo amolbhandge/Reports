@@ -1,0 +1,106 @@
+{
+  "uid" : "e12b51717d90c395",
+  "name" : "set session id",
+  "fullName" : "features/whatsapp.feature:set session id",
+  "historyId" : "0e37c88080e691ccbdb01821bae0daae",
+  "time" : {
+    "start" : 1608042282748,
+    "stop" : 1608042284807,
+    "duration" : 2059
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "When the user says \"set my session id to 94\"",
+      "time" : {
+        "start" : 1608042282752,
+        "stop" : 1608042284784,
+        "duration" : 2032
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then dialog text contains \"94\"",
+      "time" : {
+        "start" : 1608042284785,
+        "stop" : 1608042284807,
+        "duration" : 22
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "dialog"
+  }, {
+    "name" : "tag",
+    "value" : "mock.phone"
+  }, {
+    "name" : "feature",
+    "value" : "Axxessibility whatsapp"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "eec128199f8208eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1608033737737,
+        "stop" : 1608033740507,
+        "duration" : 2770
+      }
+    }, {
+      "uid" : "72dc98d81a1b49f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607683648015,
+        "stop" : 1607683650570,
+        "duration" : 2555
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "mock.phone", "dialog" ]
+  },
+  "source" : "e12b51717d90c395.json",
+  "parameterValues" : [ ]
+}
